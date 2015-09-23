@@ -1,0 +1,16 @@
+program PFidelizacao;
+
+uses
+  Vcl.Forms,
+  UntLogin in 'UntLogin.pas' {FormLogin},
+  UntPrincipal in 'UntPrincipal.pas' {frmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormLogin, FormLogin);
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.

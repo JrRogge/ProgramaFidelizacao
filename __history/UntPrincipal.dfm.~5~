@@ -1,0 +1,41 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Sistema de Premia'#231#227'o Instant'#226'nea'
+  ClientHeight = 525
+  ClientWidth = 731
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = Menu
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  WindowState = wsMaximized
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Menu: TMainMenu
+    Left = 696
+    Top = 8
+    object Cadastros: TMenuItem
+      Caption = 'Cadastros'
+      object Premios: TMenuItem
+        Caption = 'Pr'#234'mios'
+      end
+      object QRCode: TMenuItem
+        Caption = 'QRCode'
+      end
+      object Promocoes: TMenuItem
+        Caption = 'Promo'#231#245'es'
+      end
+      object Usuarios: TMenuItem
+        Caption = 'Usu'#225'rios'
+      end
+    end
+    object Sobre: TMenuItem
+      Caption = 'Sobre'
+    end
+  end
+end

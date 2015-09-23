@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/05 12:26:50.000.265,=C:\Users\Jr Rogge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/05 12:30:24.000.951,D:\Farol\7º Periodo\TCC\Programa de Fidelização\UntLogin.dfm=C:\Users\Jr Rogge\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/05/05 12:30:24.000.951,D:\Farol\7º Periodo\TCC\Programa de Fidelização\UntLogin.pas=C:\Users\Jr Rogge\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/05 12:30:52.000.617,D:\Farol\7º Periodo\TCC\Programa de Fidelização\PFidelizacao.dproj=C:\Users\Jr Rogge\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/05/05 12:36:29.000.486,=D:\Farol\7º Periodo\TCC\Programa de Fidelização\Unit1.pas</Transaction>
+    <Transaction>2015/05/05 12:41:36.000.232,D:\Farol\7º Periodo\TCC\Programa de Fidelização\UntPrincipal.dfm=D:\Farol\7º Periodo\TCC\Programa de Fidelização\Unit1.dfm</Transaction>
+    <Transaction>2015/05/05 12:41:36.000.232,D:\Farol\7º Periodo\TCC\Programa de Fidelização\UntPrincipal.pas=D:\Farol\7º Periodo\TCC\Programa de Fidelização\Unit1.pas</Transaction>
+    <Transaction>2015/05/24 18:04:40.000.057,=D:\Farol\7º Periodo\TCC\ProgramaFidelizacao\Unit1.pas</Transaction>
+    <Transaction>2015/05/24 18:05:16.000.789,D:\Farol\7º Periodo\TCC\ProgramaFidelizacao\Unit1.pas=D:\Farol\7º Periodo\TCC\ProgramaFidelizacao\UDMConexao.pas</Transaction>
+    <Transaction>2015/05/24 18:05:16.000.789,D:\Farol\7º Periodo\TCC\ProgramaFidelizacao\Unit1.dfm=D:\Farol\7º Periodo\TCC\ProgramaFidelizacao\UDMConexao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
